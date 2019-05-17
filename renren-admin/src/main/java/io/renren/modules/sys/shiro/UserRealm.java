@@ -31,7 +31,7 @@ import java.util.*;
 /**
  * 认证
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Component
 public class UserRealm extends AuthorizingRealm {

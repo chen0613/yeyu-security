@@ -15,7 +15,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 /**
  * WebMvc配置
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Configuration
 public class WebConfig implements WebMvcConfigurer {

@@ -18,7 +18,7 @@ import java.io.Serializable;
 /**
  * 角色与部门对应关系
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Data
 @TableName("sys_role_dept")

@@ -19,7 +19,7 @@ import java.io.Serializable;
 /**
  * 数据字典
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Data
 @TableName("sys_dict")

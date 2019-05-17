@@ -24,7 +24,7 @@ import java.util.Map;
 /**
  * 定时任务日志
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @RestController
 @RequestMapping("/sys/scheduleLog")

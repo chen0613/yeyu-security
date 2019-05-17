@@ -15,7 +15,7 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * 角色管理
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Mapper
 public interface SysRoleDao extends BaseMapper<SysRoleEntity> {

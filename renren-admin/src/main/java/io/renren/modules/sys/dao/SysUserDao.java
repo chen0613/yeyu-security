@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * 系统用户
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Mapper
 public interface SysUserDao extends BaseMapper<SysUserEntity> {

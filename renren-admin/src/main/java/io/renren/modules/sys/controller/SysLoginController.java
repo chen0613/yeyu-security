@@ -30,7 +30,7 @@ import java.io.IOException;
 /**
  * 登录相关
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Controller
 public class SysLoginController {

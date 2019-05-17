@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * 角色与菜单对应关系
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Service("sysRoleMenuService")
 public class SysRoleMenuServiceImpl extends ServiceImpl<SysRoleMenuDao, SysRoleMenuEntity> implements SysRoleMenuService {

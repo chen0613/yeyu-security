@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * 部门管理
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Data
 @TableName("sys_dept")

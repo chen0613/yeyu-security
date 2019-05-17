@@ -26,7 +26,7 @@ import java.util.Map;
 /**
  * 角色管理
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @RestController
 @RequestMapping("/sys/role")

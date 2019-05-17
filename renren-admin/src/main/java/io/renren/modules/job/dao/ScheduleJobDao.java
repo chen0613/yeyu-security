@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * 定时任务
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Mapper
 public interface ScheduleJobDao extends BaseMapper<ScheduleJobEntity> {

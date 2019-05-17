@@ -18,7 +18,7 @@ import org.springframework.stereotype.Component;
 /**
  * 系统配置Redis
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Component
 public class SysConfigRedis {

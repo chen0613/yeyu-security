@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * 数据字典
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 public interface SysDictService extends IService<SysDictEntity> {
 

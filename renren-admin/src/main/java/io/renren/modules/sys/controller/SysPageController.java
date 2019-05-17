@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * 系统页面视图
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Controller
 public class SysPageController {

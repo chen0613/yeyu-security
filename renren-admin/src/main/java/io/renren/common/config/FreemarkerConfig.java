@@ -20,7 +20,7 @@ import java.util.Properties;
 /**
  * Freemarker配置
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Configuration
 public class FreemarkerConfig {

@@ -15,7 +15,7 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * 数据字典
  *
- * @author Mark sunlightcs@gmail.com
+ * @author cz
  */
 @Mapper
 public interface SysDictDao extends BaseMapper<SysDictEntity> {
